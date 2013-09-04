@@ -1,0 +1,48 @@
+/* MANAGER SAYFASI */
+.table-baslik div{
+	float:left;
+	display:table;
+}
+
+.table-list div.satir{
+	float:left;
+	margin-left:7px;
+}
+div.ara{
+	float:left;
+}
+.table-list div.satir div{
+	display:block;
+}
+
+.tablo-list{
+}
+/* #MANAGER SAYFASI */
+#header {
+    padding: 20px;
+    background: lightblue;
+}
+#content{
+    padding: 20px;
+    background: #fff; 
+}
+#footer{
+    padding: 20px;
+    background: lightblue;
+}
+#sol{
+    float:left;
+    width: 200px;
+    padding: 10px;
+    background-color: appworkspace;
+}
+/* Login SAYFASI */
+#genel{
+	width:500px;
+	height:380px;
+	background-image:url("../images/slider-alt.png");
+	border-radius:6px;
+	box-shadow:0 0 15px #252525;
+	margin:100px auto;
+	
+}
